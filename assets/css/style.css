@@ -170,7 +170,7 @@ body {
   
   .responsive {
     float: left;
-    width: 100%;
+    width: 70%;
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
@@ -215,9 +215,5 @@ body {
     background: #4aaaa5;
     border: 0 none;
   }
-  .responsive{
-    .responsive {
-        width: 100%;
-        height: auto;
-  }
+  
   
