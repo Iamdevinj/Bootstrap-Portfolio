@@ -168,9 +168,9 @@ body {
     border-bottom: 0;
   }
   
-  .auth-image {
+  .responsive {
     float: left;
-    width: 200px;
+    width: 100%;
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
@@ -214,5 +214,10 @@ body {
     cursor: pointer;
     background: #4aaaa5;
     border: 0 none;
+  }
+  .responsive{
+    .responsive {
+        width: 100%;
+        height: auto;
   }
   
